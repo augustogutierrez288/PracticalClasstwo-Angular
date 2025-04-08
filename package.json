@@ -1,0 +1,13 @@
+{
+  "name": "practical-class-two",
+  "version": "1.0.0",
+  "description": "\"Angula practice project class two from Coderhouse\"",
+  "license": "ISC",
+  "author": "\"Augusto Gutierrez\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/js/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
